@@ -14,8 +14,8 @@ public class ThreadEg implements Runnable  {
     catch(InterruptedException e){
         System.out.println(e);
     }
-
-        System.out.println("the sum of first 10 numbers is: "+sum);
+    
+        System.out.println("The sum of first 10 numbers is: "+sum);
         
     }
     public static void main(String []args){
