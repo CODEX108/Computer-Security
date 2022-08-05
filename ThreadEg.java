@@ -22,5 +22,7 @@ public class ThreadEg implements Runnable  {
         ThreadEg th1 =new ThreadEg();
         Thread t = new Thread(th1);
         t.start();
+        
+        
     }
 }
