@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="461_pMzQ_bFux2WRzo8j">
-    <mxGraphModel>
+    <mxGraphModel dx="874" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MuZyqHrl32whdEdbHXzR-1" value=":&lt;u&gt;Trader&lt;/u&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MuZyqHrl32whdEdbHXzR-2" value=":&lt;u&gt;Learnings&lt;/u&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MuZyqHrl32whdEdbHXzR-3" value=":&lt;u&gt;Marketplace&lt;/u&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MuZyqHrl32whdEdbHXzR-4" value=":&lt;u&gt;Metamask&lt;/u&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MuZyqHrl32whdEdbHXzR-5" value=":&lt;u&gt;SmartContract&lt;/u&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
