@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="480" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YH-CRLP42BkAAgdWbxsX-10" value="Nonce and Balance verification&lt;div&gt;0.4.2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="190" y="550" width="90" height="90" as="geometry" />
+          <mxGeometry x="190" y="575" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YH-CRLP42BkAAgdWbxsX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YH-CRLP42BkAAgdWbxsX-11" target="YH-CRLP42BkAAgdWbxsX-12">
           <mxGeometry relative="1" as="geometry" />
@@ -74,6 +74,9 @@
         </mxCell>
         <mxCell id="YH-CRLP42BkAAgdWbxsX-32" value="Signed Transaction" style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="50" y="600" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YH-CRLP42BkAAgdWbxsX-37" value="&lt;p style=&quot;font-size: 17px;&quot;&gt;DFD Level 2&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="275" y="428" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
