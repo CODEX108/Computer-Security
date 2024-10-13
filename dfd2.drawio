@@ -1,9 +1,110 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="wIm-4XRjAMFPYXwUDCxi">
-    <mxGraphModel>
+    <mxGraphModel dx="934" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="G05u5fl_mquRW6f1pYa7-1" value="Connect Wallet&lt;br&gt;0.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="190" y="195" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="G05u5fl_mquRW6f1pYa7-2" target="G05u5fl_mquRW6f1pYa7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-2" value="Transaction details&lt;div&gt;0.2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-4" value="Trader" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="10" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="G05u5fl_mquRW6f1pYa7-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-5" value="Transaction&lt;div&gt;Block&lt;br&gt;Validation&lt;/div&gt;&lt;div&gt;0.4&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="G05u5fl_mquRW6f1pYa7-6" target="G05u5fl_mquRW6f1pYa7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-6" value="Gas Fee Calculation&lt;div&gt;0.3&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="G05u5fl_mquRW6f1pYa7-7" target="G05u5fl_mquRW6f1pYa7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-7" value="Metamask" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-8" value="Smart Contract&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="610" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-9" value="Transaction Card&lt;div&gt;Generation&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="810" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-12" value="" style="group;labelBackgroundColor=none;fontColor=#143642;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-10" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="G05u5fl_mquRW6f1pYa7-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-11" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="G05u5fl_mquRW6f1pYa7-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="30" as="sourcePoint" />
+            <mxPoint x="120" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.011;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="G05u5fl_mquRW6f1pYa7-4" target="G05u5fl_mquRW6f1pYa7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.065;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="G05u5fl_mquRW6f1pYa7-1" target="G05u5fl_mquRW6f1pYa7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.042;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="G05u5fl_mquRW6f1pYa7-5" target="G05u5fl_mquRW6f1pYa7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.381;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="G05u5fl_mquRW6f1pYa7-7" target="G05u5fl_mquRW6f1pYa7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.772;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="G05u5fl_mquRW6f1pYa7-8" target="G05u5fl_mquRW6f1pYa7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-27" value="Wallet Connection Authorization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontStyle=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="75" y="125" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-28" value="Transaction Input&amp;nbsp;" style="text;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-29" value="Transaction Timestamp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontStyle=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-31" value="Gas Fee Calculated Data" style="text;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="480" y="155" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Smart Contract Execution&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="670" y="120" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-33" value="Validated Transaction Data" style="text;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="665" y="220" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-34" value="Commit Transaction to Blockchain" style="text;whiteSpace=wrap;html=1;fontSize=10;fontStyle=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="550" y="400" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-35" value="BlockChain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="580" y="368" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-36" value="Provide mainnet prices" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontStyle=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-37" value="Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontStyle=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G05u5fl_mquRW6f1pYa7-38" value="DFD LEVEL 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;fontFamily=Verdana;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-2" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
