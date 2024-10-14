@@ -31,7 +31,7 @@
         <mxCell id="YH-CRLP42BkAAgdWbxsX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.626;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YH-CRLP42BkAAgdWbxsX-12" target="YH-CRLP42BkAAgdWbxsX-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YH-CRLP42BkAAgdWbxsX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="YH-CRLP42BkAAgdWbxsX-13" target="YH-CRLP42BkAAgdWbxsX-24">
+        <mxCell id="YH-CRLP42BkAAgdWbxsX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="YH-CRLP42BkAAgdWbxsX-38" target="YH-CRLP42BkAAgdWbxsX-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="702.28" y="717.8399999999999" as="targetPoint" />
           </mxGeometry>
@@ -55,7 +55,7 @@
           <mxGeometry x="545" y="850" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YH-CRLP42BkAAgdWbxsX-24" value="Transaction Card&lt;div&gt;Generation&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="690" y="740" width="130" height="60" as="geometry" />
+          <mxGeometry x="750" y="740" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YH-CRLP42BkAAgdWbxsX-27" value="Updated State and Transaction Summary" style="text;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="650" y="650" width="110" height="40" as="geometry" />
@@ -70,13 +70,22 @@
           <mxGeometry x="470" y="550" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YH-CRLP42BkAAgdWbxsX-31" value="Verified generated Data" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="280" y="540" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YH-CRLP42BkAAgdWbxsX-32" value="Signed Transaction" style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="50" y="600" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YH-CRLP42BkAAgdWbxsX-37" value="&lt;p style=&quot;font-size: 17px;&quot;&gt;DFD Level 2&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="275" y="428" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YH-CRLP42BkAAgdWbxsX-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="YH-CRLP42BkAAgdWbxsX-13" target="YH-CRLP42BkAAgdWbxsX-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="765" as="sourcePoint" />
+            <mxPoint x="764" y="758" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YH-CRLP42BkAAgdWbxsX-38" value="Validated Transaction Data" style="text;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="640" y="760" width="135" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
